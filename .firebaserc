@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todolist-9cfc7": {
+      "hosting": {
+        "firebase-todolist": [
+          "todolist-9cfc7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todolist-9cfc7"
+  }
+}
